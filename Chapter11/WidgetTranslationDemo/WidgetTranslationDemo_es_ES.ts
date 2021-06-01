@@ -16,25 +16,25 @@
         <translation>Seleccione el idioma</translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="43"/>
+        <location filename="customwidget.ui" line="49"/>
         <source>English</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Inglés</translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="48"/>
+        <location filename="customwidget.ui" line="54"/>
         <source>German</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Alemán</translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="53"/>
+        <location filename="customwidget.ui" line="59"/>
         <source>Spanish</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Español</translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="78"/>
+        <location filename="customwidget.ui" line="84"/>
         <source>Welcome!</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>¡Bienvenidos!</translation>

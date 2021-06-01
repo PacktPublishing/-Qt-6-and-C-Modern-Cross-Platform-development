@@ -14,22 +14,22 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="43"/>
+        <location filename="customwidget.ui" line="49"/>
         <source>English</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="48"/>
+        <location filename="customwidget.ui" line="54"/>
         <source>German</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="53"/>
+        <location filename="customwidget.ui" line="59"/>
         <source>Spanish</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="customwidget.ui" line="78"/>
+        <location filename="customwidget.ui" line="84"/>
         <source>Welcome!</source>
         <translation></translation>
     </message>

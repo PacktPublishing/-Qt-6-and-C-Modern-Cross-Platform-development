@@ -10,22 +10,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="main.qml" line="25"/>
+        <location filename="main.qml" line="23"/>
         <source>Select language</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="main.qml" line="34"/>
+        <location filename="main.qml" line="32"/>
         <source>English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="main.qml" line="35"/>
+        <location filename="main.qml" line="33"/>
         <source>German</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="main.qml" line="36"/>
+        <location filename="main.qml" line="34"/>
         <source>Spanish</source>
         <translation type="unfinished"></translation>
     </message>

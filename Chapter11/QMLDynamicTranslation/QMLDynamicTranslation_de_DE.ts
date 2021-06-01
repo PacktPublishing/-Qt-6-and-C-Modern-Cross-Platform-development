@@ -10,25 +10,25 @@
         <translation>QML-Übersetzungs-Demo</translation>
     </message>
     <message>
-        <location filename="main.qml" line="25"/>
+        <location filename="main.qml" line="23"/>
         <source>Select language</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Sprache auswählen</translation>
     </message>
     <message>
-        <location filename="main.qml" line="34"/>
+        <location filename="main.qml" line="32"/>
         <source>English</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Englisch</translation>
     </message>
     <message>
-        <location filename="main.qml" line="35"/>
+        <location filename="main.qml" line="33"/>
         <source>German</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Deutsche</translation>
     </message>
     <message>
-        <location filename="main.qml" line="36"/>
+        <location filename="main.qml" line="34"/>
         <source>Spanish</source>
         <translatorcomment>Translated by Google</translatorcomment>
         <translation>Spanisch</translation>
